@@ -1,0 +1,3 @@
+/Users/viktoriasamsonova/Desktop/clion/lab2_mv/cmake-build-debug-coverage/CMakeFiles/lab2_mv.dir
+/Users/viktoriasamsonova/Desktop/clion/lab2_mv/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/viktoriasamsonova/Desktop/clion/lab2_mv/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
